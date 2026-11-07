@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Hey, I'm Maniteja Keerthi 👋
@@ -430,4 +429,3 @@ I'm open to collaborating on interesting projects involving **AI, Machine Learni
 ⭐ Always Learning | Always Building | Always Improving
 
 </div>
-````
